@@ -1,0 +1,45 @@
+[
+  {
+    "imeVlasnika" : "Lola",
+    "prezimeVlasnika" : "Milenkovic",
+    "email" : "lolol@yahoo.com",
+    "grad": "Zajecar",
+    "vrstaLjubimca": "Lasica",
+    "imeLjubimca": "Micko",
+    "godinaRodjenjaLjubimca": "2022",
+    "napomena": "pitoma :D"
+
+
+  },
+  {
+    "imeVlasnika":"Dusan",
+    "prezimeVlasnika":"Madic",
+    "email":"",
+    "grad": "Pirot",
+    "vrstaLjubimca": "Pas",
+    "imeLjubimca": "Ketchup",
+    "godinaRodjenjaLjubimca": "2018",
+    "napomena": "nema napomene"
+  },
+  {
+    "imeVlasnika":"Janja",
+    "prezimeVlasnika":"Petrovic",
+    "email":"janja123@gmail.com",
+    "grad": "Aleksinac",
+    "vrstaLjubimca": "Papagaj",
+    "imeLjubimca": "Toma",
+    "godinaRodjenjaLjubimca": "2015",
+    "napomena": "Oporavak"
+  },
+  {
+    "imeVlasnika":"Vukasin",
+    "prezimeVlasnika":"Ostojic",
+    "email":"",
+    "grad": "Kikinda",
+    "vrstaLjubimca": "Zec",
+    "imeLjubimca": "Gvozdenko",
+    "godinaRodjenjaLjubimca": "2023",
+    "napomena": "Alergican na penicilin"
+  }
+
+]
